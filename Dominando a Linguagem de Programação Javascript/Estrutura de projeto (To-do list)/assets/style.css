@@ -1,0 +1,62 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background: grey;
+    text-align: center;
+}
+
+.logo {
+    width: 50%;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    background: orange;
+
+    margin-left: 25%;
+    margin-top: 20px;
+}
+
+.new-task-principal{
+    margin-top: 30px;
+}
+
+.new-task-principal #new-task-i {
+    border-radius: 3.5px;
+}
+
+#new-task-i:focus {
+    background: orange;
+}
+
+#add-task {
+    background: orange;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#add-task:hover {
+    background: orange;
+}
+
+.tasks{
+    margin-left: 25%;
+    margin-top: 20px;
+    width: 50%;
+    border-radius: 5px;
+    background: orange;
+    font-size: 18px;
+    text-transform: initial;
+}
+
+:checked +.msg{
+    text-decoration: line-through;
+    color: royalblue;
+}
+
+/* Usar para remover 
+.remove {
+    display: none;
+}
+*/
