@@ -1,6 +1,6 @@
-##Manipulando o DOM
+## Manipulando o DOM
 
-###Atividade: Light Mode/Dark Mode
+### Atividade: Light Mode/Dark Mode
 Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
 Copie o HTML e o CSS deste repositório
 Crie um arquivo chamado scripts.js na sua pasta assets/js
