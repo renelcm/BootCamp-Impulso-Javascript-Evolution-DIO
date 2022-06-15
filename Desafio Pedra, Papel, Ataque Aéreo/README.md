@@ -14,14 +14,14 @@ Pedra vs. Pedra: Para este caso não há ganhador, porque depende do que os joga
 Ataque Aéreo vs. Ataque Aéreo: Quando isto acontece, todos os jogadores perdem, devido a Aniquilação Mútua.
 Agora desenvolva um programa que, dada as escolhas de dois jogadores, informe quem venceu o jogo.
 
-###Entrada
+### Entrada
 A entrada consiste de N (1 ≤ N ≤ 1000) casos de teste. N deve ser lido na primeira linha da entrada. Cada caso de teste é composto por duas linhas, cada uma contendo uma string. A primeira string representa o sinal escolhido pelo jogador 1 e a segunda string representa o sinal escolhido pelo jogador 2. Essas strings podem ser:
 
 “ataque”: para representar o Ataque Aéreo
 “pedra”: para representar a Pedra
 “papel”: para representar o Papel
 
-###Saída
+### Saída
 A saída deve conter o seguinte:
 
 “Jogador 1 venceu”: se o Jogador Um tiver vencido a partida
