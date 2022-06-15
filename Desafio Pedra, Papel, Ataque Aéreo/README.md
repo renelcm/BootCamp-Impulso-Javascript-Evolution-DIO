@@ -1,4 +1,4 @@
-Desafio
+##Desafio
 Pedra, Papel, Ataque Aéreo é um jogo antigo mas que é popular até hoje. Nele, duas ou mais pessoas fazem gestos com a mão para vencer o adversário. 
 
 As partidas são muito simples. Os jogadores podem escolher entre o sinal de uma Pedra (o punho), o sinal de um Papel (a palma aberta), e o sinal para o Ataque Aéreo (igual o do Papel, mas com apenas o polegar e o mindinho estendidos).
@@ -14,13 +14,14 @@ Pedra vs. Pedra: Para este caso não há ganhador, porque depende do que os joga
 Ataque Aéreo vs. Ataque Aéreo: Quando isto acontece, todos os jogadores perdem, devido a Aniquilação Mútua.
 Agora desenvolva um programa que, dada as escolhas de dois jogadores, informe quem venceu o jogo.
 
-Entrada
+###Entrada
 A entrada consiste de N (1 ≤ N ≤ 1000) casos de teste. N deve ser lido na primeira linha da entrada. Cada caso de teste é composto por duas linhas, cada uma contendo uma string. A primeira string representa o sinal escolhido pelo jogador 1 e a segunda string representa o sinal escolhido pelo jogador 2. Essas strings podem ser:
 
 “ataque”: para representar o Ataque Aéreo
 “pedra”: para representar a Pedra
 “papel”: para representar o Papel
-Saída
+
+###Saída
 A saída deve conter o seguinte:
 
 “Jogador 1 venceu”: se o Jogador Um tiver vencido a partida
@@ -32,8 +33,10 @@ Cada saída de um caso de teste deve estar em uma linha.
 
  
 Exemplo de Entrada	Exemplo de Saída
-	2			Sem ganhador
+	2				Sem ganhador
 	pedra			jogador 1 venceu
 	pedra
 	ataque
 	papel	
+
+                        
