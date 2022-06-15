@@ -33,7 +33,7 @@ Cada saída de um caso de teste deve estar em uma linha.
 
  
 Exemplo de Entrada	Exemplo de Saída
-	2				Sem ganhador
+	2			Sem ganhador
 	pedra			jogador 1 venceu
 	pedra
 	ataque
