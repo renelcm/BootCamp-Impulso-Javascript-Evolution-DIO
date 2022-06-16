@@ -1,7 +1,7 @@
-##Tratamento de Erros
+## Tratamento de Erros
 
-###Atividade: validação de erros por tipo
-O objetivo é que a função receba um array e retorne ele caso o seu tamanho corresponda ao número enviado como parâmetro na função. Caso contrário, um erro será lançado.
+### Atividade: validação de erros por tipo
+O objetivo é que a função receba um array e retorne ele caso o seu tamanho corresponda ao número enviado como parâmetro na função. Caso contrário, um erro será lançado
 
 Crie uma função que recebe um array e um número
 Realize as seguintes validações
