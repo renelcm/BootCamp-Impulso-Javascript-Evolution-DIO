@@ -13,7 +13,6 @@ Entrada
 
 
 Saída
-
 2
 18
 4
