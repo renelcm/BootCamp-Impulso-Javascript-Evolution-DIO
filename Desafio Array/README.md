@@ -6,11 +6,17 @@ Dado uma array de valores {2, 3, 5, 7, 11, 13, 18, 34}, desenvolva um programa q
 
 Exemplo 1:
 
-Entrada 									Saída
+Entrada 								      
+ 2, 3, 5, 7, 11, 13, 18, 34	
 
- 2, 3, 5, 7, 11, 13, 18, 34					2
- 											18
-											34
+
+
+
+Saída
+
+2
+18
+4
 
 
         
